@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "كيان",
+        "last": "حسینی"
+      },
+      "location": {
+        "street": {
+          "number": 1762,
+          "name": "خالد اسلامبولی"
+        },
+        "city": "اسلام‌شهر",
+        "state": "گلستان",
+        "country": "Iran",
+        "postcode": 97845,
+        "coordinates": {
+          "latitude": "17.2292",
+          "longitude": "-13.8536"
+        },
+        "timezone": {
+          "offset": "+3:30",
+          "description": "Tehran"
+        }
+      },
+      "email": "kyn.hsyny@example.com",
+      "login": {
+        "uuid": "a19231ef-f2bf-4fb2-9ba2-34442f032bf5",
+        "username": "reddog273",
+        "password": "ranch",
+        "salt": "9iS00Rj2",
+        "md5": "e82833f6fd2c5d37bb1f650a52b473b6",
+        "sha1": "1f8654a1b1950f4cdf4c1c5f11a47c7502afd006",
+        "sha256": "f306cf5bca5c7ebc8f9e295f3e64732675530b86a903fa74ec1dda2ab2ebbe7d"
+      },
+      "dob": {
+        "date": "1961-07-23T23:38:10.387Z",
+        "age": 62
+      },
+      "registered": {
+        "date": "2008-02-17T18:10:17.782Z",
+        "age": 16
+      },
+      "phone": "019-01179330",
+      "cell": "0997-629-8380",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/27.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "61fd252570d6d448",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
